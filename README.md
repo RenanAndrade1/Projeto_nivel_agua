@@ -7,7 +7,11 @@ o programa utiliza a biblioteca colorama para exibir mensagens de cores personal
 ## Atenção ⚠️
 Ao final do sistema, as cores do terminal voltam ao normal
 
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
 
 ## 📲 Como executar o programa:
+Baixe o projeto ou clone o repositório: https://github.com/RenanAndrade1/Projeto_nivel_agua
+Abra uma pasta no VS code
+execute o arquivo "Renan_AG11_DS.py"
